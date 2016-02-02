@@ -1,0 +1,33 @@
+html {
+  background: url("miami_skyline.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.nav-wrapper {
+  background-color: #ec407a;
+  font-family: roboto;
+}
+.me-section {
+  text-align: center;
+  color: #000000;
+  font-family: lobster;
+}
+.me-section h6 {
+  font-family: doppio one;
+}
+.project-section {
+  text-align: center;
+  font-family: lobster;
+  color: #00b8d4;
+}
+.footer-section {
+  text-align: center;
+  font-family: doppio one;
+  color: #000000;
+}
+.footer-section a{
+  color: #000000;
+  padding: 20px;
+}
