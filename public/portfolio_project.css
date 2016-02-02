@@ -14,12 +14,12 @@ html {
   color: #000000;
   font-family: lobster;
 }
-.me-section h4 {
+.me-section h5 {
   font-family: doppio one;
 }
-.me-section h3 {
+.me-section h4 {
   font-family: doppio one;
-  padding-top: 3em;
+  padding-top: 2em;
 }
 .project-section {
   text-align: center;
